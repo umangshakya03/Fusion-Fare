@@ -1,7 +1,7 @@
 const Group2 = () => {
     return (
         <>
-            <div className="relative flex justify-center text-center overflow-hidden px-10 bg-[url('/img/rectangle_2.jpg')] bg-black bg-no-repeat bg-cover">
+            <div id="about-us" className="relative flex justify-center text-center overflow-hidden px-10 bg-[url('/img/rectangle_2.jpg')] bg-black bg-no-repeat bg-cover">
                 <div className="relative flex flex-col items-center justify-center max-w-4xl md:flex-row py-14">
                     <div className="relative max-w-72">
                         <img
